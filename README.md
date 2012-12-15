@@ -1,6 +1,6 @@
-First Part
+Main Goal
 ==========
- Main Goal is to test Mink and Behat developing a complete login Feature
+ Test Mink and Behat developing a complete login Feature
 
 Uses
 ====
