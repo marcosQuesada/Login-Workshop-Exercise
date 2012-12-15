@@ -1,0 +1,8 @@
+default:
+    extensions:
+        Behat\MinkExtension\Extension:
+            goutte: ~
+            selenium2: ~
+            base_url: 'http://login.workshop.local/app_dev.php/'
+            show_cmd: google-chrome %s
+            javascript_session:  'selenium2'
